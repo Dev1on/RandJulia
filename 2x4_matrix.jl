@@ -1,0 +1,5 @@
+myMatrix = rand(2,4)
+println("Matrix generated:")
+Base.showarray(STDOUT,myMatrix,false)
+println("\nMaximum value, index):")
+findmax(myMatrix)
