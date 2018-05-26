@@ -9,9 +9,9 @@ R and Julia excercises for Data Sciene Course
 This will generate (e.g.) the following output:
 
 julia> include("/<your path>/2x4_matrix.jl")
-Matrix generated:
-2×4 Array{Float64,2}:
+ Matrix generated: 
+ 2×4 Array{Float64,2}:
  0.0442527  0.855927   0.364354  0.213846
  0.103491   0.0149141  0.229063  0.548455
-Maximum value, index):
-(0.8559271320217983, 3)
+ Maximum value, index):
+ (0.8559271320217983, 3)
