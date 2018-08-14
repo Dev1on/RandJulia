@@ -1,5 +1,5 @@
 # RandJulia
-R and Julia excercises for Data Sciene Course
+Part of the R and Julia excercises for Data Science Course at my master studies
 
 # How To Use
 - Excercise 1 - Guess a number - just open with Text Editor / R GUI look at the code and source as script
